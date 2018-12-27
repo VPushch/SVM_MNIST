@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 
 def evaluate(f_true, f_predict):
     """
-    Функция для оценки работы алгоритма. Метрики Accuracy и Confusion Matrix.
+    Функция для оценки качества работы алгоритма. Метрики Accuracy и Confusion Matrix.
 
     Аргументы функции
     -----------------
